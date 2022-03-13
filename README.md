@@ -22,7 +22,6 @@ OkCreature has been designed to help potential adopters narrow the search for a 
 - [Directions for Future Development](#directions-for-future-development)
 - [Screenshots](#screenshots)
 - [Contributors](#contributors)
-- [Learn More](#learn-more)
 - [License](#license)
 
 ## Usage
@@ -135,10 +134,6 @@ We would like to make this a Progressive Web Application by employing service wo
 * Michelle Nijjar |
   Contact email: michellenijjar@hotmail.com |
   GitHub: [mnijjar24](https://github.com/mnijjar24)
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 ## License
 This project is currently unlicensed but will be in the future.
