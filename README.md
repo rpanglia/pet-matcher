@@ -2,9 +2,7 @@
 
 # OkCreature
 
-## Objective
-
-OkCreature has been designed to help potential adopters narrow the search for a pet. The matching feature allows users to filter our pet database based their lifestyle, their preferences and the level of care that they are able to provide. 
+OkCreature was designed with the intention of assisting potential pet adopters to narrow their searches for a new addition to their family. The matching feature within this app allows users to filter through our database of creatures based on their lifestyle, preferences and the level of care that they are able to provide. 
 
 ## Link
 
